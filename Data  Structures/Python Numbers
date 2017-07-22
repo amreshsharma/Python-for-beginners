@@ -1,0 +1,13 @@
+Python supports integers, floating point numbers and complex numbers. They are defined as int, float and complex class in Python.
+
+a = 5
+
+# Output: <class 'int'>
+print(type(a))
+
+# Output: <class 'float'>
+print(type(5.0))
+
+# Output: (8+3j)
+c = 5 + 3j
+print(c + 3)
