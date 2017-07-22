@@ -28,3 +28,13 @@ Once we have defined a function, we can call it from another function, program o
 >>> greeting('Rita')
 Hello, Rita. Good morning!
 
+
+The return statement -
+The return statement is used to exit a function and go back to the place from where it was called.
+
+def abs_value(num):
+	
+	if num >= 0:
+		return num
+	else:
+		return -num
