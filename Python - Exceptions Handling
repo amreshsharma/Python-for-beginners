@@ -1,9 +1,9 @@
-Python - Exceptions Handling
+#Python - Exceptions Handling
 
 An exception is an error that happens during the execution of a program.There are a number of built-in exceptions, which indicate conditions like
 reading past the end of a file, or dividing by zero. You can also define your own exceptions.
 
-Raising an Exception
+#Raising an Exception
 
 You can raise an exception in your own program by using the raise exception
 statement.
@@ -11,7 +11,7 @@ statement.
 Raising an exception breaks current code execution and returns the exception
 back until it is handled.
 
-Exception Errors Examples-
+#Exception Errors Examples-
 The words "try" and "except" are Python keywords and are used to catch exceptions.The code within the try clause will be executed statement by statement.
 
 If an exception occurs, the rest of the try block will be skipped and the except clause will be executed.
