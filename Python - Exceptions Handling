@@ -1,4 +1,4 @@
-# Python - Exceptions Handling
+# Python - Exceptions **Handling**
 
 An exception is an error that happens during the execution of a program.There are a number of built-in exceptions, which indicate conditions like
 reading past the end of a file, or dividing by zero. You can also define your own exceptions.
