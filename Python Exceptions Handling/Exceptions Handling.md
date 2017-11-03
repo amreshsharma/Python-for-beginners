@@ -17,7 +17,7 @@ The words "try" and "except" are Python keywords and are used to catch exception
 If an exception occurs, the rest of the try block will be skipped and the except clause will be executed.
 
 ## Example:
-
+```
 try:
     some statements here
 except:
@@ -27,7 +27,8 @@ try:
     print 1/0
 except ZeroDivisionError:
     print "You can't divide by zero."
-    
+ ```
+ 
 The error handling is done through the use of exceptions that are caught in try blocks and handled in except blocks.
 If an error is encountered, a try block code execution is stopped and transferred down to the except block. 
 
