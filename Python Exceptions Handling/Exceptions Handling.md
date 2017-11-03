@@ -33,7 +33,7 @@ If an error is encountered, a try block code execution is stopped and transferre
 
 Sometimes it is useful to find out exactly what went wrong, or to print the python error text yourself.
 For example:
-
+```
 try:
     the_file = open("the_parrot")
 except IOError, (ErrorNumber, ErrorMessage):
@@ -42,4 +42,5 @@ except IOError, (ErrorNumber, ErrorMessage):
     else:
         print "Congratulation! you have managed to trip a #%d error" % ErrorNumber
         print ErrorMessage
+ ```       
     
