@@ -1,10 +1,13 @@
-## Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes.
-## Classes are essentially a template to create your objects.
+# Objects and Class
 
-## Class variable: A variable that is shared by all instances of a class. Class variables are defined within a class but outside any of the class's methods.
-## Class variables are not used as frequently as instance variables are.
+### Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from 
+### classes.
+### Classes are essentially a template to create your objects.
 
-## Data member: A class variable or instance variable that holds data associated with a class and its objects.
+### Class variable: A variable that is shared by all instances of a class. Class variables are defined within a class but outside any of the class's methods.
+### Class variables are not used as frequently as instance variables are.
+
+### Data member: A class variable or instance variable that holds data associated with a class and its objects.
 
 ### Function overloading: The assignment of more than one behavior to a particular function. The operation performed varies by the types of 
 ### objects or arguments involved.
